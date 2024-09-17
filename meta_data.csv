@@ -1,0 +1,83 @@
+﻿Phylum,Class,Order,Family,Species,rotl_spp,Weapon,Citation,Study,Injured,Total,Proportion,Weapon_size,Body_size,Rel_size,Size,Allometry,Regenerate,Ram,Bias_large,Observation,Notes
+Chordata,Amphibia,Anura,Hylidae,Boana curupi,Myersiohyla aromatica,Thumb spine,Candaten et al 2020,1,0,32,0,2.5,83.6,0.029904306,small,,N,,N,1,Percentage not recorded in paper but contacted authors in December 2023; they never saw individuals with broken spines
+Chordata,Aves,Apodiformes,Trochilidae,Phaethornis longirostris,Phaethornis longirostris,Bill,Rico-Guevara and Araya-Salas 2015,2,1,144,0.7,1.5,4.5,0.333333333,large,1.26,Y,,N,2,Broken maxillary tip; grew back the next year; allometric slope from using WebPlotDigitizer on Supplemental Figure A5
+Chordata,Aves,Galliformes,Phasianidae,Meleagris gallopavo,Meleagris gallopavo,Tarsal spur,Badyaev et al 1998,3,41,209,19.6,1.5,49,0.030612245,small,,Y,,N,3,"Spurs visibly damaged, recently broken, or heavily worn"
+Chordata,Mammalia,Artiodactyla,Bovidae,Aepyceros melampus,Aepyceros melampus,Horn,Packer 1983,4,7,125,5.6,40,51,0.784313725,large,,N,Y,N,4,
+Chordata,Mammalia,Artiodactyla,Bovidae,Alcelaphus buselaphus,Alcelaphus buselaphus,Horn,Packer 1983,4,1,33,3,28,98,0.285714286,small,,N,Y,N,5,
+Chordata,Mammalia,Artiodactyla,Bovidae,Capra ibex,Capra ibex,Horn,Bergeron et al 2010,5,1,50,2,90,150,0.6,large,0.84,N,Y,N,6,Contacted author 30 April 2024; only remembers 1 male with broken tips out of 50
+Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes taurinus,Connochaetes taurinus,Horn,Packer 1983,4,95,3371,2.8,33,94,0.35106383,large,,N,Y,N,7,
+Chordata,Mammalia,Artiodactyla,Bovidae,Damaliscus lunatus,Damaliscus lunatus,Horn,Packer 1983,4,2,38,5.3,40,230,0.173913043,small,,N,Y,N,8,
+Chordata,Mammalia,Artiodactyla,Bovidae,Gazella granti,Nanger granti,Horn,Packer 1983,4,1,287,0.3,31,66,0.46969697,large,,N,Y,N,9,Estimated number injured from total sample size and percentage
+Chordata,Mammalia,Artiodactyla,Bovidae,Gazella thomsoni,Eudorcas thomsonii,Horn,Packer 1983,4,8,1000,0.8,16.9,47,0.359574468,large,,N,Y,N,10,
+Chordata,Mammalia,Artiodactyla,Bovidae,Rupicapra pyrenaica,Rupicapra pyrenaica,Horn,Lovari et al 2009,6,10,150,7,200,1300,0.153846154,small,,N,N,N,11,
+Chordata,Mammalia,Artiodactyla,Bovidae,Hemitragus jemlahicus,Hemitragus jemlahicus,Horn,Lovari et al 2009,6,0,250,0,20,150,0.133333333,small,,N,Y,N,12,
+Chordata,Mammalia,Artiodactyla,Bovidae,Kobus ellipsiprymnus,Kobus ellipsiprymnus,Horn,Packer 1983,4,1,29,3.4,99,235,0.421276596,large,,N,Y,N,13,Estimated number injured from total sample size and percentage
+Chordata,Mammalia,Artiodactyla,Bovidae,Madoqua kirkii,Madoqua kirkii,Horn,Packer 1983,4,2,35,5.7,3,27.5,0.109090909,small,,N,N,N,14,
+Chordata,Mammalia,Artiodactyla,Bovidae,Oreamnos americanus,Oreamnos americanus,Horn,Cote et al 1998,7,2,135,1.7,30,180,0.166666667,small,,N,N,N,15,Estimated number injured from total sample size and percentage; includes broken horns for both males and females
+Chordata,Mammalia,Artiodactyla,Bovidae,Oryx gazella,Oryx gazella,Horn,Packer 1983,4,1,6,16.7,85,240,0.354166667,large,,N,N,N,16,
+Chordata,Mammalia,Artiodactyla,Bovidae,Raphicerus campestris,Raphicerus campestris,Horn,Packer 1983,4,2,18,11.1,19,95,0.2,small,,N,N,N,17,
+Chordata,Mammalia,Artiodactyla,Bovidae,Redunca redunca,Redunca redunca,Horn,Packer 1983,4,0,25,0,35,135,0.259259259,small,,N,N,N,18,
+Chordata,Mammalia,Artiodactyla,Bovidae,Syncerus caffer,Syncerus caffer,Horn,Packer 1983,4,15,400,3.8,160,340,0.470588235,large,,N,Y,N,19,Estimated number injured from total sample size and percentage
+Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus oryx,Tragelaphus oryx,Horn,Packer 1983,4,3,50,6,66,280,0.235714286,small,,N,Y,N,20,
+Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus scriptus,Tragelaphus scriptus,Horn,Packer 1983,4,0,11,0,20,60,0.333333333,large,,N,N,N,21,
+Chordata,Mammalia,Artiodactyla,Cervidae,Cervus elaphus,Cervus elaphus,Antler,Johnson et al 2005,8,92,112,82.1,71,137,0.518248175,large,,Y,Y,N,22,More common at end of breeding season
+Chordata,Mammalia,Artiodactyla,Cervidae,Cervus nippon,Cervus nippon,Antler,Hayden et al 1994,9,13,52,25,15,30,0.5,large,,Y,N,N,23,More common at end of breeding season
+Chordata,Mammalia,Artiodactyla,Cervidae,Dama dama,Dama dama,Antler,Jennings et al 2017,10,26,58,44.8,2,3,0.666666667,large,,Y,Y,N,24,"More common in dominant; data from mating success sheet, y = 1"
+Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus reevesi,Muntiacus reevesi,Canine,Chapman 1996,11,42,83,50.6,2.9,135,0.021481481,small,,N,N,Y,25,Broken tusk; even higher rates in older males; only 49.4% of 83 males (3-5 years old) had intact tusks
+Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus reevesi,Muntiacus reevesi,Canine,Pei 1996,12,12,45,26.7,2.2,135,0.016296296,small,,N,N,N,26,Damage to tusk
+Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus virginianus,Odocoileus virginianus,Antler,Karns & Ditchkoff 2012,13,147,487,30.2,15,72,0.208333333,small,,Y,Y,N,27,
+Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus virginianus,Odocoileus virginianus,Antler,Jin and Shipman 2010,14,32,93,34.4,15,72,0.208333333,small,,Y,Y,N,28,antlers broken transversely on main beam
+Chordata,Mammalia,Cetacea,Monodontidae,Monodon monoceros,Monodon monoceros,Tusk,Porsild 1922,15,107,314,34.1,200,500,0.4,large,,N,,N,29,
+Chordata,Mammalia,Cetacea,Monodontidae,Monodon monoceros,Monodon monoceros,Tusk,Silverman & Dunbar 1980,16,27,68,39.7,200,500,0.4,large,,N,,Y,30,Combined data for adult and juvenile males; Higher in adult than juvenile males
+Chordata,Mammalia,Cetacea,Monodontidae,Monodon monoceros,Monodon monoceros,Tusk,Gerson and Hickie 1985,17,20,42,47.6,200,500,0.4,large,5.73,N,,Y,31,"Combined data for adult and juvenile males; Higher in adult than juvenile males; Allometric slope from Table 1, log tusk length vs log body length"
+Chordata,Mammalia,Cetacea,Monodontidae,Monodon monoceros,Monodon monoceros,Tusk,Nweeia et al 2014,18,2,6,33.3,200,500,0.4,large,,N,,N,32,
+Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros unicornis,Rhinoceros sondaicus,Horn,Dinerstein 1991,19,11,36,31,30,432.3,0.069396253,small,,Y,,N,33,Horn broken off
+Chordata,Mammalia,Primates,Cercopithecidae,Macaca mulatta,Macaca mulatta,Canine,Kimock et al. 2022,20,4,66,6,27,532,0.05075188,small,,N,,N,34,Broken canine
+Chordata,Mammalia,Primates,Cercopithecidae,Papio anubis,Papio anubis,Canine,Packer 1979,21,1,20,5,2,27,0.074074074,small,,N,,N,35,Large section chipped off after intense fight; paper did not report sample size of other types of wear
+Chordata,Mammalia,Primates,Cercopithecidae,Papio cynocephalus,Papio cynocephalus,Canine,Galbany et al 2015,22,17,63,27,3.4,84,0.04047619,small,,N,,N,36,Broken or blunt upper canine; Estimated number injured from total sample size and percentage
+Chordata,Mammalia,Proboscidea,Elephantidae,Elephas maximus,Elephas maximus,Tusk,Chelliah and Sukumar 2013,23,3,82,3.7,6,21,0.285714286,small,,N,,N,37,
+Arthropoda,Insecta,Coleoptera,Brentidae,Lasiorhynchus barbicornis,Lasiorhynchus barbicornis,Rostrum,Painting and Holwell 2013,24,0,987,0,40,90,0.444444444,large,,N,,N,38,Contacted author 8 May 2024; never seen a male with broken/injured rostrum
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Augosoma centaurus,Augosoma centaurus,Horn,McCullough et al 2015,25,6,89,6.7,32.5,62.1,0.523349436,large,3.18,N,,N,39,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Chalcosoma atlas,Chalcosoma atlas,Horn,McCullough et al 2015,25,3,45,6.7,45.7,71.9,0.635605007,large,1.95,N,,Y,40,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Coelosis bicornis,Coelosis bicornis,Horn,McCullough et al 2015,25,0,47,0,13.5,33.44,0.403708134,large,1.5,N,,N,41,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Cyclommatus mniszechi,Cyclommatus mniszechi,Mandible,Chen et al 2022,26,0,114,0,19.4,37.2,0.521505376,large,,N,,N,42,Percentage not recorded in paper but contacted authors in August 2023; they never saw individuals with broken mandibles; allometric slope from Chen et al. 2020 is 2.89 ± 0.10
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dicronocephalus wallichii,Dicronocephalus wallichi,Horn,Kojima & Lin 2017,27,0,245,0,14.1,33.8,0.417159763,large,2.43,N,,N,43,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Diloboderus abderus,Diloboderus abderus,Horn,McCullough et al 2015,25,4,114,3.5,15.6,29.07,0.536635707,large,2.66,N,,N,44,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastes granti,Dynastes granti,Horn,McCullough et al 2015,25,9,164,5.5,19.8,49.04,0.403752039,large,1.99,N,,N,45,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastes hercules,Dynastes hercules,Horn,McCullough et al 2015,25,2,74,2.7,54.17,88.88,0.609473447,large,3.45,N,,N,46,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastes tityus,Dynastes tityus,Horn,McCullough et al 2015,25,3,181,1.7,17.96,50.4,0.356349206,large,1.23,N,,N,47,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Enema pan,Enema pan,Horn,McCullough et al 2015,25,1,100,1,43.72,60.4,0.72384106,large,0.9,N,,N,48,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa costaricensis,Golofa costaricensis,Horn,McCullough et al 2015,25,2,66,3,23.16,47.24,0.490262489,large,3.56,N,,N,49,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa eacus,Golofa eacus,Horn,McCullough et al 2015,25,5,63,7.9,38.4,51.9,0.739884393,large,3.07,N,,Y,50,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa imperialis,Golofa incas,Horn,McCullough et al 2015,25,0,25,0,17.7,41.37,0.427846265,large,2.55,N,,N,51,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa pelagon,Golofa pelagon,Horn,McCullough et al 2015,25,1,39,2.6,12.1,37.54,0.322322856,small,1.74,N,,N,52,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa pizarro,Golofa pizarro,Horn,McCullough et al 2015,25,1,74,1.4,23.51,47.4,0.495991561,large,3.38,N,,N,53,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Golofa tersander,Golofa tersander,Horn,McCullough et al 2015,25,2,29,6.9,18.9,37.86,0.499207607,large,4.67,N,,N,54,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Heterogomphus chevrolati,Heterogomphus chevrolati,Horn,McCullough et al 2015,25,0,98,0,17.27,53.75,0.321302326,small,2.5,N,,N,55,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Heterogomphus schoenherri,Heterogomphus schoenherri,Horn,McCullough et al 2015,25,3,76,3.9,20.39,48.74,0.418342224,large,1.72,N,,N,56,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Megasoma elephas,Megasoma elephas,Horn,McCullough et al 2015,25,3,38,7.9,47.03,92.4,0.508982684,large,1.45,N,,N,57,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Megasoma pachecoi,Megasoma pachecoi,Horn,McCullough et al 2015,25,0,147,0,18.13,39.55,0.45840708,large,2.71,N,,N,58,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Megasoma thersites,Megasoma thersites,Horn,McCullough et al 2015,25,0,41,0,12,40.21,0.298433226,small,0.95,N,,N,59,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Oryctes boas,Oryctes boas,Horn,McCullough et al 2015,25,1,51,2,19.88,42.54,0.467324871,large,3.79,N,,N,60,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Oryctes nasicornis,Oryctes nasicornis,Horn,McCullough et al 2015,25,1,64,1.6,14.2,38.55,0.368352789,large,3.33,N,,N,61,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Oryctes rhinoceros,Oryctes rhinoceros,Horn,McCullough et al 2015,25,1,75,1.3,13.05,45.71,0.285495515,small,2.41,N,,N,62,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Podischnus agenor,Trichogomphus bronchus,Horn,McCullough et al 2015,25,1,72,1.4,14.9,43.04,0.346189591,large,3.31,N,,N,63,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Podischnus oberthueri,Trichogomphus vicinus,Horn,McCullough et al 2015,25,0,32,0,12.56,44.23,0.283970156,small,1.78,N,,N,64,
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Spodistes mniszechi,Spodistes mniszechi,Horn,McCullough et al 2015,25,1,43,2.3,13.28,33.3,0.398798799,large,2,N,,N,65,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Trypoxylus dichotomus,Trypoxylus dichotomus,Horn,Siva-Jothy 1987,28,4,67,6,29.73,55,0.540545455,large,,N,,Y,66,Broken horns; more common among larger males
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Trypoxylus dichotomus,Trypoxylus dichotomus,Horn,McCullough 2014,29,44,1014,4.4,29.73,55,0.540545455,large,,N,,Y,67,"Severely damaged horns; injury status = ""3""; more common among larger males"
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Trypoxylus dichotomus,Trypoxylus dichotomus,Horn,McCullough et al 2015,25,1,53,1.9,29.73,55,0.540545455,large,1.73,N,,N,68,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Xyloryctes ensifer,Xyloryctes ensifer,Horn,McCullough et al 2015,25,1,30,3.3,13.32,34.69,0.383972326,large,0.97,N,,N,69,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Xyloryctes jamacensis,Xyloryctes orientalis,Horn,McCullough et al 2015,25,2,78,2.6,9.76,31.2,0.312820513,small,0.8,N,,N,70,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Xylotrupes gideon,Xylotrupes gideon,Horn,McCullough et al 2015,25,2,485,0.4,29.45,50.7,0.58086785,large,1.82,N,,N,71,Broken horns
+Arthropoda,Insecta,Coleoptera,Scarabaeidae,Xylotrupes pubescens,Xylotrupes pubescens,Horn,McCullough et al 2015,25,0,39,0,12.85,46.09,0.278802343,small,2.39,N,,N,72,
+Arthropoda,Insecta,Hymenoptera,Vespidae,Synagris cornuta,Synagris cornuta,Mandibular tusk,Longair 2004,30,0,106,0,17,29,0.586206897,large,1.753,N,,N,73,Allometric slope of tusked males; b = 1.753 ± 0.125
+Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus pennsylvanicus,Gryllus pennsylvanicus,Mandible,Judge and Bonanno 2008,31,0,151,0,3.9,24,0.1625,small,1.37,N,,N,74,no damage; Allometric slope (major axis) of mandible length on pronotum length (body size) from Table S1: 1.37 (1.27-1.47)
+Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus pennsylvanicus,Gryllus pennsylvanicus,Maxilla,Judge and Bonanno 2008,31,14,151,9.3,5.42,24,0.225833333,small,1.33,N,,N,75,blunted or snapped off; ; Allometric slope (major axis) of maxilla length on pronotum length (body size) from Table S1: 1.33 (1.24-1.43)
+Arthropoda,Insecta,Phasmatodea,Lonchodidae,Eurycantha calcarata,Eurycantha calcarata,Hind leg,Boisseau et al 2020,32,5,72,6.9,32,118,0.271186441,small,0.9,N,,N,76,Punctured leg cuticle; author sent unpublished data 9/6/24
+Arthropoda,Insecta,Phasmatodea,Lonchodidae,Eurycantha horrida,Eurycantha horrida,Hind leg,Boisseau et al 2020,32,3,8,37.5,39,136,0.286764706,small,0.71,N,,N,77,Punctured leg cuticle; author sent unpublished data 9/6/24
+Arthropoda,Malacostraca,Decapoda,Ocypodidae,Uca beebei,Leptuca beebei,Claw,Dennenmoser and Christy 2013,33,20,121,16.5,22.86,12.96,1.763888889,large,,Y,,N,78,puncture wounds
+Arthropoda,Malacostraca,Decapoda,Ocypodidae,Uca burgersi,Minuca burgersi,Claw,Jones 1980,34,34,130,26.2,16,20,0.8,large,,Y,,Y,79,34 of 130 showed signs of chela damage (should be 26.2% not 25.2% as reported in paper); larger animals more likely to be damaged
+Arthropoda,Malacostraca,Decapoda,Ocypodidae,Uca lactea,Austruca lactea,Claw,Muramatsu & Koga 2016,35,5,139,3.6,19.11,12.85,1.487159533,large,,Y,,N,80,From 2011 raw data; Noted 5 cases of broken major claw
+Arthropoda,Malacostraca,Decapoda,Ocypodidae,Uca terpsichores,Leptuca terpsichores,Claw,Dennenmoser and Christy 2013,33,36,94,38.3,18.32,11,1.665454545,large,,Y,,N,81,puncture wounds
+Arthropoda,Malacostraca,Decapoda,Palaemonidae,Cryphiops caementarius,Cryphiops caementarius,Claw,Rojas et al 2012,36,10,119,8.4,38.2,57.5,0.664347826,large,1.071,Y,,Y,82,Broken dactylus/propodus in table 5; added total from groups 1 and 2; larger morph more likely to be damaged; Allometry from exponent in Figure 4c for group 1
