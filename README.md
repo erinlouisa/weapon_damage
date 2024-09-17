@@ -52,4 +52,3 @@ Bias_large: Categorical variable (Y or N) indicating whether there was evidence 
 
 Observation: Identifier for each unique observation
 
-![image](https://github.com/user-attachments/assets/abeac6ab-31c7-41eb-a417-93191ae814e6)
